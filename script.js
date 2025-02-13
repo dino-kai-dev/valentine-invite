@@ -11,7 +11,7 @@ const body = document.querySelector('body')
 function yes() {
     text.style.display = 'block'
     buttons.style.display = 'none'
-    question.textContent = "Yey! It's a date then"
+    question.textContent = "Yey! I LOVE YOU BAHUUU MU DATE NAA!!!"
     gif.src = 'giphy.gif'
 
 
@@ -21,7 +21,7 @@ function yes() {
 
 
 
-var phrase = ['why no?', 'u dont want?:(', 'still no?', 'should be yes!', 'yess ;)']
+var phrase = ['why man no?', 'yaw mo?:(', 'still no?', 'should be yes!', 'no choice ka ble ;)']
 var gifs = ['hug-me-im-sad.gif', 'goma-peach.gif', 'cash-app-empty.gif', 'sad.gif', 'cry-cute.gif', 'reaction-sad.gif']
 var noCount = 0
 
